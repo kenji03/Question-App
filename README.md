@@ -13,7 +13,7 @@
     The small map below a question form is tracking user's positioin with a pink marker. The pop up will be shown only when clicking the marker and the coordinates does not inserted into the form when it is clicked.
     
   3. Question Form
-    This form is for creating questions of Quiz App. Each enrty must be filled in and if there is non-sense input, the upload will not be carried out.If the upload button is pushed, the data in the form will be sent to a database and "Upload Has Completed" message will be displayed.
+    This form is for creating questions of Quiz App. Each enrty must be filled in and if there is non-sense input, the upload will not be carried out. If the upload button is pushed, the data in the form will be sent to a database and "Upload Has Completed" message will be displayed.
    
    <h3>*Menu in a side bar does not have any functions</h3>
  
