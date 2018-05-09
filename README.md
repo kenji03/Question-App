@@ -15,6 +15,6 @@
   3. Question Form
     This form is for creating questions of Quiz App. Each enrty must be filled in and if there is non-sense input, the upload will not be carried out.If the upload button is pushed, the data in the form will be sent to a database and "Upload Has Completed" message will be displayed.
    
-   <h3 style="color:red;">*Menu in a side bar does not have any functions</h3>
+   <h3>*Menu in a side bar does not have any functions</h3>
  
 ![2018-05-09 02 34 44 1](https://user-images.githubusercontent.com/35526637/39791530-0fac2238-5334-11e8-934a-2e52acad99c1.png)
