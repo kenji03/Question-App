@@ -1,6 +1,6 @@
 # Question-App
-User and Technical Guide
-This is a browser-based App that will allow the system to do the following:
+# User and Technical Guide:
+  This is a browser-based App that will allow the system to do the following:
   Create a new question by clicking on a point on a Leaflet Map and adding the quesiton and four possible anwers. The answer wil be stored in a database on the webserver.
   
   This app consists of three parts, main map for selecting question points, a tracking map and a question form. Usuful functions are added. These are described below.
